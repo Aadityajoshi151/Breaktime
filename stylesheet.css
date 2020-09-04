@@ -65,4 +65,8 @@
     color:beige;
     text-align:center;
   }
+  #counter{
+    position: fixed;
+    left: 20px;
+  }
   
