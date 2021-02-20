@@ -69,4 +69,11 @@
     position: fixed;
     left: 20px;
   }
+  #marquee{
+    background-color: #559CAD;
+    color: white;
+    font-size: 18px;
+    letter-spacing: 1;
+    font-weight: bold;
+  }
   
